@@ -1,0 +1,171 @@
+.texto {
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.celular {
+    margin-left: 32.063em;
+    margin-top: 3.875em;
+}
+
+form {
+    display: inline-block;
+    margin-top: 100px;
+    width: 21.75em;
+    height: 25.499em;
+    border: 1px solid #dbdbdb;
+    border-radius: 1px;
+}
+
+h1 {
+
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+    font-size: 42px;
+    padding-left: 90px;
+    padding-top: 5%;
+}
+
+#password,
+#user {
+    display: block;
+    border: 1px solid #dbdbdb;
+    margin-left: 100px;
+    width: 264px;
+    height: 35px;
+    margin-left: 40px;
+    background-color: #FAFAFA;
+    border-radius: 3px;
+
+}
+
+hr {
+    display: block;
+    margin-top: 11px;
+    margin-left: 42px;
+    border-top: 1px solid rgb(219, 219, 219);
+    width: 264px;
+    margin-bottom: 1px;
+}
+
+h4 {
+    display: inline;
+    margin-left: 0px;
+}
+
+#user {
+    margin-top: 39px;
+}
+
+#password {
+    margin-top: 5px;
+}
+
+#button {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background-color: rgb(75, 180, 248);
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    width: 268.4px;
+    height: 32px;
+    padding-bottom: 0px;
+}
+
+.facebookicon {
+    display: inline;
+    width: 16px;
+    margin-top: 35px;
+    margin-left: 76px;
+}
+
+.facebook {
+    margin-left: 3px;
+    margin-top: 17px;
+    Font-family: Calibri;
+    color: #385185;
+}
+
+small {
+    Font-family: Calibri;
+    display: block;
+    margin-top: 21px;
+    margin-left: 105px;
+}
+
+
+.registrarse {
+    Font-family: Calibri;
+    margin-top: 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 1px;
+    width: 21.75em;
+    height: 3.813em;
+    ;
+}
+
+.passwordnt {
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 6%;
+}
+
+
+.registro {
+
+    display: inline-block;
+    background-color: transparent;
+    border: 0;
+    color: #0095F6
+}
+
+.descarga {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.app {
+    margin-left: 7.813em;
+    margin-top: 0.375em;
+    display: block;
+    Font-family: Calibri;
+}
+
+.microsoft,
+.google {
+    display: inline;
+}
+
+.google {
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 7px;
+    width: 130px;
+
+}
+
+.microsoft {
+    width: 111px;
+}
+
+footer {
+    display: block;
+    margin-top: 7%;
+}
+
+footer small a {
+    color: #737373;
+    margin: 10px;
+}
+
+
+.nav {
+    margin-left: 450px;
+}
+
+
+.data {
+    margin-left: 800px;
+}
